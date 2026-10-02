@@ -1,3 +1,14 @@
+## About This Repository
+
+This repository serves as a personal workspace and backup to store my work.
+
+* **Base Infrastructure:** The foundational simulation environment, configuration files, and starter code structure are adapted from the official Control of Mobile Robots/Autonomous Mobile Robots(CDA 4621/CAI 5815) course repository provided by the University of South Florida ([Original Starter Repo Link Here](https://github.com/biorobaw/FAIRIS-Lite/)).
+
+* **Original Student Work:** All custom controller logic, algorithms, and implementations located inside the `WebotsSim/controllers/` directories represent my own original academic work developed for this class.
+
+⚠️ **Academic Integrity Notice:** This repository contains coursework and implementation code for the CDA 4621/CAI 5815 course at the University of South Florida. Copying or reusing this code for academic credit violates university honor codes.
+
+
 # FAIRIS-Lite
 
 FAIRIS-Lite is a project framework that allows you to implement navigational control logic directly on the open-source robotic simulation platform Webots. With this framework, you can create your own Webots controller without the need to set up a simulated environment or robot, as we provide all the materials required to get started.
