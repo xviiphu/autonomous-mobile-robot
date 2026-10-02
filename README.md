@@ -6,7 +6,7 @@ This repository serves as a personal workspace and backup to store my work.
 
 * **Original Student Work:** All custom controller logic, algorithms, and implementations located inside the `WebotsSim/controllers/` directories represent my own original academic work developed for this class.
 
-⚠️ **Academic Integrity Notice:** This repository contains coursework and implementation code for the CDA 4621/CAI 5815 course at the University of South Florida. Copying or reusing this code for academic credit violates university honor codes.
+⚠️ **Academic Integrity Notice:** This repository contains my coursework and implementation code (as stated above) for the CDA 4621/CAI 5815 course at the University of South Florida. Copying or reusing my code for academic credit violates university honor codes.
 
 
 # FAIRIS-Lite
